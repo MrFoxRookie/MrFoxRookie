@@ -30,42 +30,33 @@
 
 <h2>My Projects</h2>
 
-<table>
+<table align="center">
   <tr>
-
-    <td width="50%" align="center">
-
+    <td align="center" width="50%" valign="top">
       <h3>News Explorer App</h3>
-
-      <img src="./Assets/news-explorer.jpeg" width="100%"/>
-
-      <br>
-
+      <img 
+        src="./Assets/news-explorer.jpeg" 
+        width="100%" 
+        style="max-height: 200px; object-fit: cover;"
+      />
       <img src="https://img.shields.io/badge/Code-red?logo=github">
       <img src="https://img.shields.io/badge/Live-red?logo=firefox">
-
-      <p>
+      <p style="min-height: 80px;">
         News Explorer App is a news search application that provides access to a wide variety of news sources and information channels.
       </p>
-
     </td>
-
-    <td width="50%" align="center">
-
+    <td align="center" width="50%" valign="top">
       <h3>Around the World App</h3>
-
-      <img src="./Assets/around-the-world.jpeg" width="100%"/>
-
-      <br>
-
+      <img 
+        src="./Assets/around-the-world.jpeg" 
+        width="100%" 
+        style="max-height: 200px; object-fit: cover;"
+      />
       <img src="https://img.shields.io/badge/Code-red?logo=github">
       <img src="https://img.shields.io/badge/Live-red?logo=firefox">
-
-      <p>
+      <p style="min-height: 80px;">
         Interactive social media-style platform that allows users to share and discover places around the world.
       </p>
-
     </td>
-
   </tr>
 </table>
