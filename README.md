@@ -1,29 +1,27 @@
 <p align="center">
-  <img src="./Assets/banner.png" width="800" />
+  <img src="./Assets/banner.png" />
 </p>
-
-<br>
 
 <div align="center" style="white-space: nowrap;">
 
   <a href="https://www.linkedin.com/in/zahid-tejeda-amaro/?locale=en">
-    <img src="https://img.shields.io/badge/LinkedIn-Zahid_Tejeda-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Zahid_Tejeda_Amaro-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
   </a>
 
   <a href="assets/CV%20Zahid%20Tejeda%20Amaro%20ES.pdf">
-    <img src="https://img.shields.io/badge/CV%20ES-Download-red?style=flat&logo=adobeacrobatreader&logoColor=white"/>
+    <img src="https://img.shields.io/badge/CV%20ES-Download-6C63FF?style=flat&logo=adobeacrobatreader&logoColor=white"/>
   </a>
 
   <a href="assets/CV%20Zahid%20Tejeda%20Amaro%20EN.pdf">
-    <img src="https://img.shields.io/badge/CV%20EN-Download-blue?style=flat&logo=adobeacrobatreader&logoColor=white"/>
+    <img src="https://img.shields.io/badge/CV%20EN-Download-3B82F6?style=flat&logo=adobeacrobatreader&logoColor=white"/>
   </a>
 
   <a href="mailto:tuemail@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Gmail-D14836?style=flat&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-Gmail-EA4335?style=flat&logo=gmail&logoColor=white"/>
   </a>
 
   <a href="https://mrfoxrookie.github.io/portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-Web-FF7139?style=flat&logo=firefox&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Portfolio-Web-FF7A59?style=flat&logo=firefox&logoColor=white"/>
   </a>
 
 </div>
@@ -39,8 +37,12 @@
         width="100%" 
         style="max-height: 200px; object-fit: cover;"
       />
-      <img src="https://img.shields.io/badge/Code-red?logo=github">
-      <img src="https://img.shields.io/badge/Live-red?logo=firefox">
+      <a href="https://github.com/MrFoxRookie/News-Explorer-App">
+        <img src="https://img.shields.io/badge/Code-1E3A8A?logo=github&logoColor=white"/>
+      </a>
+      <a href="https://news-explorer-app-three.vercel.app/">
+        <img src="https://img.shields.io/badge/Live-22C55E?logo=firefox&logoColor=white"/>
+      </a>
       <p style="min-height: 80px;">
         News Explorer App is a news search application that provides access to a wide variety of news sources and information channels.
       </p>
@@ -52,8 +54,12 @@
         width="100%" 
         style="max-height: 200px; object-fit: cover;"
       />
-      <img src="https://img.shields.io/badge/Code-red?logo=github">
-      <img src="https://img.shields.io/badge/Live-red?logo=firefox">
+      <a href="https://github.com/MrFoxRookie/Around-the-World-App">
+        <img src="https://img.shields.io/badge/Code-1E3A8A?logo=github&logoColor=white"/>
+      </a>
+      <a href="https://around-the-world-app-kappa.vercel.app/signin">
+        <img src="https://img.shields.io/badge/Live-22C55E?logo=firefox&logoColor=white"/>
+      </a>
       <p style="min-height: 80px;">
         Interactive social media-style platform that allows users to share and discover places around the world.
       </p>
